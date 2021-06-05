@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-light navbar-expand-md bg-danger justify-content-md-center justify-content-start">
+    <nav class="navbar navbar-light navbar-expand-md bg-light justify-content-md-center justify-content-start">
         <div class="navbar-collapse collapse justify-content-between align-items-center w-100" id="collapsingNavbar2">
             <ul class="navbar-nav mx-auto text-md-center text-left">
                 <li class="nav-item">
