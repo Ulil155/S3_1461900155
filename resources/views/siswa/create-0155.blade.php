@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-dark navbar-expand-md bg-dark justify-content-md-center justify-content-start">
+    <nav class="navbar navbar-blue navbar-expand-md bg-blue justify-content-md-center justify-content-start">
         <div class="navbar-collapse collapse justify-content-between align-items-center w-100" id="collapsingNavbar2">
             <ul class="navbar-nav mx-auto text-md-center text-left">
                 <li class="nav-item">
@@ -43,7 +43,7 @@
 </form>
     </div>
     <div class="footer">
-		<center>Copyright &copy; 2021 - <a href="facebook.com/lavonte12">ulilucu</a></center>
+		<center>Follow my ig<a href="instagram.com/ndeloshor">ndeloshor</a></center>
 	</div>
     </body>
 

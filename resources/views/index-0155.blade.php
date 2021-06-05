@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-dark navbar-expand-md bg-dark justify-content-md-center justify-content-start">
+    <nav class="navbar navbar-light navbar-expand-md bg-danger justify-content-md-center justify-content-start">
         <div class="navbar-collapse collapse justify-content-between align-items-center w-100" id="collapsingNavbar2">
             <ul class="navbar-nav mx-auto text-md-center text-left">
                 <li class="nav-item">
@@ -38,7 +38,7 @@
             </div>
             <div class="mr-2 mb-2">
                 <button type="submit" class="btn btn-primary">Apply</button>
-                <a href="{{ url('/') }}" class="btn btn-warning">Reset</a>
+                <a href="{{ url('/') }}" class="btn btn-danger">Reset</a>
             </div>
         </div>
     </div>
@@ -64,6 +64,9 @@
     </tbody>
 </table>
     </div>
+    <div class="footer">
+		<center>Follow my ig <i class="bi bi-instagram"> <a href="instagram.com/ndeloshor">ndeloshor</a></i>
+	</div>
 </body>
 
 <script src="{{ URL::asset('js/app.js') }}"></script>
